@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-484bd": {
+      "hosting": {
+        "appIngresoEgreso": [
+          "ingreso-egreso-app-484bd"
+        ]
+      }
+    }
+  }
+}
